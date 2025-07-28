@@ -1,0 +1,1 @@
+Portfolio personal de Diego Marzioni. Contiene frontend (react + vite) y backend (typescript)
