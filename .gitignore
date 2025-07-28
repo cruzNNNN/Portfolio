@@ -1,2 +1,4 @@
-node_modules
-.env
+# Frontend
+/front/node_modules/
+/front/dist/
+/front/.vite/
